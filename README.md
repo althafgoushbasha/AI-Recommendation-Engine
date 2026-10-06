@@ -87,19 +87,19 @@ Combines multiple recommendation strategies to provide broader and more useful p
 
 ### Similar Product Recommendation
 
-![Similar Product Recommendation](screenshots/Similar%20Product%20Recommendation.png)
+![Similar Product Recommendation](./Similar%20Product%20Recommendation.png)
 
 ### Upsell Recommendation
 
-![Upsell Recommendation](screenshots/Upsell%20Recommendation.png)
+![Upsell Recommendation](./Upsell%20Recommendation.png)
 
 ### Cross-Sell Recommendation
 
-![Cross-Sell Recommendation](screenshots/cross%20sell%20Recommendation.png)
+![Cross-Sell Recommendation](./cross%20sell%20Recommendation.png)
 
 ### Hybrid Recommendation
 
-![Hybrid Recommendation](screenshots/hybrid%20recommendation.png)
+![Hybrid Recommendation](./hybrid%20recommendation.png)
 
 ## 📈 Outcome
 
