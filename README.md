@@ -114,11 +114,14 @@ The project demonstrates the practical application of:
 - Similarity Analysis
 - E-commerce Analytics
 
-## 🔐 Source Code
+## 🔐 Source Code Availability
 
-This repository is intended as a **project showcase**.
+**The source code for this project is not publicly available due to
+project and access restrictions.**
 
-The implementation source code and original project files are **not included in this public repository**.
+**This repository is provided as a project showcase containing the
+project overview, technical approach, recommendation modules,
+and selected project visuals.**
 
 ## 👨‍💻 Developer
 
